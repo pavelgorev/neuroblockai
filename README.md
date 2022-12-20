@@ -1,4 +1,5 @@
 The project is a work in progress.
+Discord: https://discord.gg/9pDdrKJy8n
 
 # What is "Neuro Block AI"?
 
